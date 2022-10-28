@@ -67,6 +67,7 @@ TOKEN_SECRET = adsdasdasda;
 - JWT (인증방식)
 - Express.js
 
-## License
+## Preview
+<img width="352" alt="9" src="https://user-images.githubusercontent.com/109440399/198485975-6bc6a2e0-8cf4-469f-a54c-8db115b31109.png">
+<img width="649" alt="8" src="https://user-images.githubusercontent.com/109440399/198485990-54af4724-ecc2-4ab8-9593-46ee3eee7cb4.png">
 
-[MIT License](https://github.com/ghdwlsgur/Project-Study/blob/master/LICENSE)
