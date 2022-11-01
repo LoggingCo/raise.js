@@ -12,6 +12,9 @@ TOKEN_SECRET = adsdasdasda;
 4. cd server > yarn run dev (클라이언트, 서버 동시 실행)
 
 ---
+## 프로젝트 설명 바로가기
+
+https://github.com/LoggingCo/raise.js/blob/master/INTRODUCE.md
 
 ## 🛠 Feature
 
